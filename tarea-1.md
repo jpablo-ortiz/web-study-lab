@@ -1,5 +1,6 @@
 # Tarea #1 - Git
 Crear una carpeta llamada "tarea-1" y poner dentro todo lo que se haga en esta tarea.
+Recuerda seguir las buenas prácticas de git con las ramas.
 ## Feature #1
 - Crear un programa que imprima "Hola Mundo" (Lenguaje de programación a elección).
 ## Feature #2
